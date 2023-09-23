@@ -7,3 +7,4 @@ One of the standout features of EzTrigger is its ability to filter objects based
 In the editor, you have the flexibility to customize the appearance of the collider, making it highly visible within the editing scene window. This visual aid enhances your workflow by helping you accurately position and adjust triggers in your game world.
 
 In summary, EzTrigger is an indispensable tool for game developers, offering an intuitive way to create triggers, define events, and filter objects based on tags. Its visual customization options in the editor streamline the design process, making it an essential addition to your game development toolkit.
+![SharedScreenshot](https://github.com/Cadons/EzTrigger/assets/43477517/95cbeefa-a455-4d3d-b1cb-4287d270f9f8)
